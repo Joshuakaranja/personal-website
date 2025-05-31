@@ -1,4 +1,4 @@
 @import "tailwindcss";
-img{
-    background-image: url('bg.webp');
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
